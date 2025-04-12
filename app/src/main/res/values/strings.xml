@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BeastBuy</string>
+    <string name="welcome_to_beastbuy">Welcome to BeastBuy</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_all">Delete all</string>
+    <string name="summary">Summary</string>
+    <string name="search_items">Search items...</string>
+    <string name="no_items">No items yet. Add one using the + button.</string>
+    <string name="beast_shopping_list">Beast Shopping List</string>
+    <string name="filter_by">"Filter by: "</string>
+    <string name="category">Category</string>
+    <string name="priority">Priority</string>
+    <string name="price">Price</string>
+    <string name="status">Status</string>
+    <string name="all">All</string>
+    <string name="pending">Pending</string>
+    <string name="bought">Bought</string>
+    <string name="value">"Value: "</string>
+    <string name="no_items_yet_add_one_using_the_button">No items yet. Add one using the + button.</string>
+    <string name="description">Description</string>
+    <string name="description_cannot_be_empty">Description cannot be empty</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="price_must_be_a_valid_number">Price must be a valid number</string>
+    <string name="please_select_a_category">Please select a category</string>
+    <string name="normal">Normal</string>
+    <string name="high">High</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="total_items">Total Items: %1$s</string>
+    <string name="important_items">Important Items: %1$s</string>
+    <string name="bought_items">Bought Items: %1$s</string>
+    <string name="pending_items">Pending Items: %1$s</string>
+    <string name="low_to_high">Low to High</string>
+    <string name="high_to_low">High to Low</string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="name">Name</string>
+    <string name="name_cannot_be_empty">Name cannot be empty</string>
+</resources>
+
