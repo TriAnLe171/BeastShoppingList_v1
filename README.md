@@ -26,7 +26,11 @@ BeastBuy is a feature-rich shopping list application built with modern Android d
 
 ## Screenshots
 
-_Add screenshots here to showcase the app._
+![image](https://github.com/user-attachments/assets/63fd8f42-4fac-402e-b138-4590c63e35dc)
+
+![image](https://github.com/user-attachments/assets/d588aab1-580e-400c-aa2b-34581d48f0a7)
+
+![image](https://github.com/user-attachments/assets/97788f1f-29ee-4b36-937f-daaf3a9c0e51)
 
 ## How to Run
 
